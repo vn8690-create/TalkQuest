@@ -1,0 +1,38 @@
+{
+  "id": "goal_buy_coffee",
+  "version": "1.0",
+
+  "title": "Buy a Coffee",
+
+  "description": "The learner can successfully order a drink in a coffee shop.",
+
+  "difficulty": "A1",
+
+  "estimatedMinutes": 5,
+
+  "requiredSkills": [],
+
+  "requiredPatterns": [],
+
+  "requiredVocabulary": [],
+
+  "requiredGrammar": [],
+
+  "recommendedWorlds": [],
+
+  "recommendedCharacters": [],
+
+  "missionTemplates": [],
+
+  "aiSettings": {
+    "allowImprovisation": true,
+    "maxConversationTurns": 8,
+    "feedback": true
+  },
+
+  "reward": {
+    "xp": 100,
+    "coins": 20,
+    "stars": 3
+  }
+}
