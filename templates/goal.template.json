@@ -2,13 +2,25 @@
   "id": "goal_buy_coffee",
   "version": "1.0",
 
-  "title": "Buy a Coffee",
+  "slug": "buy-coffee",
 
-  "description": "The learner can successfully order a drink in a coffee shop.",
+  "nameKey": "goal.buy_coffee.name",
+  "descriptionKey": "goal.buy_coffee.description",
 
-  "difficulty": "A1",
+  "status": "draft",
 
-  "estimatedMinutes": 5,
+  "difficulty": {
+    "cefr": "A1",
+    "jlpt": null
+  },
+
+  "estimatedDuration": {
+    "minutes": 5
+  },
+
+  "tags": [],
+
+  "prerequisites": [],
 
   "requiredSkills": [],
 
@@ -33,6 +45,13 @@
   "reward": {
     "xp": 100,
     "coins": 20,
-    "stars": 3
+    "stars": 3,
+    "unlock": []
+  },
+
+  "metadata": {
+    "author": "TalkQuest Team",
+    "createdAt": "",
+    "updatedAt": ""
   }
 }
